@@ -1,3 +1,16 @@
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip('show')
+})
+window.onload="myFunction()";
+
+
+
+
+
+
+// FONCTION NAJIB
+
 function myFunction() {
   //contenu
   var plateau = document.getElementById("scene");
