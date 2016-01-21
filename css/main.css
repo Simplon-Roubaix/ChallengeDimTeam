@@ -131,7 +131,7 @@ height: 34px;
     margin-top: -6%;
 }
 
-#border-nav {
+.border-nav {
     border-left: 1px dotted grey;
 }
 
@@ -150,13 +150,30 @@ height: 34px;
 
 
 
-
-
-
-
-
-
-
+/* footer */
+#footer {
+    color: grey;
+    height: 63px;
+    background-color: #372D55;
+}
+#footer h1 {
+        font-size: 1em;
+        padding-left: 20px;
+}
+#footer3 {
+    padding-top: 11px;
+}
+#footer2 {
+        font-size: 1.3em;
+    color: grey;
+    background-color: #333E7E;
+    height : 60px;
+    background-image: url(../img/shadow.png);
+    background-size: cover;
+}
+.border-nav2 {
+    border-left: 1px dotted grey;
+}
 
 
 .joueur{
